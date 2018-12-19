@@ -1,0 +1,3 @@
+Merhaba Python dosya dünyasý.
+Ýkinci satýra geçtik!!
+Üçüncü satýr çalýþmaya devam!!!
